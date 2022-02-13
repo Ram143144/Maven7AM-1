@@ -33,7 +33,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.142.151:8080/repository/Cloud-Gen-Release/</url>
+            <url>http://192.168.142.111:8080/repository/Cloud-Gen-Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
