@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.142.166:8081/repository/rraammu/</url>
+            <url>http://192.168.142.173:8080/repository/rraammu/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.142.166:8081/repository/rraammuu-snap/</url>
+            <url>http://192.168.142.173:8080/repository/rraammuu-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
