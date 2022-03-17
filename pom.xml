@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.142.196:8081/repository/ramdocker/</url>
+            <url>http://192.168.142.196:8081/repository/ramnexus/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.142.196:8081/repository/ramu-snap/</url>
+            <url>http://192.168.142.196:8081/repository/ramnexus-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
